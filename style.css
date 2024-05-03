@@ -1,0 +1,37 @@
+body { 
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000
+}
+
+a.link { color: #306292 }
+a.visited { color: #6A818B }
+a.active { color: #FFFFFF }
+
+i, em {
+  font-style: italic;
+}
+
+th, td, center, div { /* ns 4 */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+pre, code {
+  font-family: Courier;
+}
+
+.big {
+  font-size: x-large;
+}
+
+.plus {
+  font-size: large;
+}
+
+.small {
+  font-size: small;
+}
+
+#calendar {
+    max-width: 1100px;
+    margin: 40px auto;
+  }
